@@ -13,3 +13,9 @@
     position: absolute;
     transform: translate(-50%, 0%);
 }
+
+.obfuscate { 
+    unicode-bidi: bidi-override; 
+    direction: rtl;
+    span { display: none; }
+}
