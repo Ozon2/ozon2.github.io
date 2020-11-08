@@ -63,6 +63,7 @@ sass:
 include:
   - _redirects
   - .htaccess
+  - CNAME
 
 exclude:
   - CNAME
