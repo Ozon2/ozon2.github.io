@@ -1,17 +1,16 @@
 ---
 layout: post
-title: Civic engagement
+title: My civic engagement at N7
 tag:
-  - civic engagement
+  - n7
+  - shs
 ---
 
 ![](/civic-engagement/poster-net7.png)
 
 ## Team presentation video
 
-<div class="video-responsive">
-  <iframe src="https://www.youtube.com/embed/gQpLG40HVQc" frameborder="0" allowfullscreen></iframe>
-</div>
+{% youtube "https://www.youtube.com/embed/gQpLG40HVQc" %}
 
 ## The net7 team
 

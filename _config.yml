@@ -12,11 +12,11 @@ author:
     I am particularly interested in software development and cybersecurity.
   username: ozon # general username
   github: ozon2 # github username
-  email: tom.pillot@pm.me # email adress
+  email: # email adress
   avatar: /assets/img/profile.png # change with your own avatar
 
 # URL settings
-url: "https://tpillot.fr" #
+url: "https://tom.pillot.dev"
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
@@ -83,3 +83,4 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
+  - jekyll-youtube
