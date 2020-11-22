@@ -2,15 +2,30 @@
   url: /
   external: false
 
-- title: archive
-  url: /archive/
+- title: education
+  url: /education/
   external: false
 
-- title: about
-  url: /about/
-  external: false # set true if you using external link, see below
+- title: professional english
+  url: /english/
+  external: false
 
-# Example:
-# - title: github
-#   url: https://github.com/piharpi/jekyll-klise
-#   external: true
+- title: leadership and management
+  url: /leadership/
+  external: false
+
+- title: languages
+  url: /languages/
+  external: false
+
+- title: more
+  url: /more/
+  external: false
+
+# - title: archive
+#   url: /archive/
+#   external: false
+
+# - title: about
+#   url: /about/
+#   external: false # set true if you using external link, see below
