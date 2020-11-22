@@ -2,8 +2,8 @@
 layout: post
 title: Volunteering at the Capitole du Libre
 tag:
-  - open source
-  - volunteering
+  - leadership and management
+  - civic engagement
 ---
 
 <figure>

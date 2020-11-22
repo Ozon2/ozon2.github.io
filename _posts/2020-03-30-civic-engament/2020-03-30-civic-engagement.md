@@ -2,8 +2,8 @@
 layout: post
 title: My civic engagement at N7
 tag:
-  - n7
-  - shs
+  - leadership and management
+  - civic engagement
 ---
 
 ![](/civic-engagement/poster-net7.png)

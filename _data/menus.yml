@@ -7,15 +7,15 @@
   external: false
 
 - title: professional english
-  url: /english/
+  url: /professional-english/
   external: false
 
 - title: leadership and management
-  url: /leadership/
+  url: /leadership-management/
   external: false
 
-- title: languages
-  url: /languages/
+- title: spanish
+  url: /spanish/
   external: false
 
 - title: more
