@@ -4,3 +4,4 @@ _site/
 .jekyll-metadata
 _drafts
 klise-*.gem
+workspace.code-workspace

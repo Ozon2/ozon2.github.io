@@ -9,7 +9,8 @@ author:
   name: Tom Pillot # author name
   bio: >- # tell to the world
     Welcome! I am a computer engineering student at <a href="http://www.enseeiht.fr/en/index.html">ENSEEIHT</a>.
-    I am particularly interested in software development and cybersecurity.
+    I am particularly interested in software development and cybersecurity.<br/><br/>
+    This eportfolio contains some of the work I have done during my studies so far.
   username: ozon # general username
   github: ozon2 # github username
   email: # email adress
