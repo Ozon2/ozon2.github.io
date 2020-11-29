@@ -2,8 +2,12 @@
   url: /
   external: false
 
-- title: professional engagement
-  url: /professional-engagement/
+- title: ppp
+  url: /ppp/
+  external: false
+
+- title: civic engagement
+  url: /civic-engagement/
   external: false
 
 - title: leadership and management
