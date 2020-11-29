@@ -12,3 +12,11 @@ I did my first year internship at LAAS-CNRS, you can find my report [here](/inte
 ## Resume
 
 You can find my english resume [here](/assets/other/CV_Tom_PILLOT.pdf).
+
+## Job ad
+
+Coming soon.
+
+## Presentation
+
+Coming soon.
