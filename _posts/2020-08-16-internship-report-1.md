@@ -30,8 +30,6 @@ This was challenging because I didn't work with **Django** before, but I really 
 
 ## Python packages
 
-Création de wheels Python manylinux pour plusieurs projets du LAAS
-
 After theses projects I still had some time left, so I was given a third project. I was tasked to package some Python apps so they could be published on [PyPi](https://pypi.org). I used [manylinux](https://github.com/pypa/manylinux) to produce packages that are compatible with the vast majority of desktop and server Linux distributions.
 
 I enjoyed this project because it made me work with **Docker**.
