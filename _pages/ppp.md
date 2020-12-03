@@ -3,7 +3,7 @@ layout: page
 permalink: /ppp/
 ---
 
-# Professional engagement
+# Personal and Professional Project
 
 ## First year internship report
 
@@ -15,7 +15,7 @@ You can find my english resume [here](/assets/other/CV_Tom_PILLOT.pdf).
 
 ## Job ad
 
-Coming soon.
+I sent a cover letter for an internship at [Bleemeo](https://bleemeo.com), you can can find it [here](/assets/other/cover_letter.pdf).
 
 ## Presentation
 
