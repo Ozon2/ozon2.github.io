@@ -19,4 +19,4 @@ I sent a cover letter for an internship at [Bleemeo](https://bleemeo.com), you c
 
 ## Presentation
 
-Coming soon.
+You can find my presentation [here](/assets/other/ppp.pdf).
