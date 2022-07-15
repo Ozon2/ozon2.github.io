@@ -2,6 +2,10 @@
   url: /
   external: false
 
+- title: international context
+  url: /international-context/
+  external: false
+
 - title: ppp
   url: /ppp/
   external: false
@@ -10,7 +14,7 @@
   url: /civic-engagement/
   external: false
 
-- title: leadership and management
+- title: leadership
   url: /leadership-management/
   external: false
 
@@ -21,10 +25,6 @@
 - title: spanish
   url: /spanish/
   external: false
-
-# - title: archive
-#   url: /archive/
-#   external: false
 
 - title: about
   url: /about/
