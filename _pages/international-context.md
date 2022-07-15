@@ -24,4 +24,6 @@ Moreover, tracking issues and new features for our product as well as writing
 documentation is done in English.
 
 Bleemeo has international customers. I had the opportunity to do online meetings
-in English with some of them to discuss their needs and problems.
+in English with some of them to discuss their needs and problems. I did not find
+this experience to be particularly challenging because I am comfortable speaking
+and writing in English.
